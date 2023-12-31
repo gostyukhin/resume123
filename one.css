@@ -1,0 +1,183 @@
+.img2 {
+    object-fit: cover;
+    /* width: 100%; */
+    margin: 0 auto;
+    /* margin-right: 20px; */
+    padding: 20px;
+    display: flex;
+    /* float: left; */
+}
+
+
+
+
+.bv {
+
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    /* float: left; */
+    border: 5px solid black;
+    border-radius: 1em;
+}
+
+h1 {
+    text-align: center;
+}
+
+.text {
+
+    margin-bottom: 10px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    border-radius: 20px;
+    height: 350px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+/* font-size: 20px;
+    padding-left: 20px; */
+/* margin-left: 20px; */
+/* display: block; */
+/* width: 98%;
+    height: 350px;
+    border: 5px solid black;
+    border-radius: 1em;
+    background-color: white; */
+
+
+
+
+
+body {
+    background-color: #A9A9A9;
+}
+
+#link {
+    border-right: 2px solid black;
+    text-decoration: none;
+    color: black;
+}
+
+#link:hover {
+    color: red;
+}
+
+.form h1 {
+    text-align: center;
+}
+
+.form1 label {
+    display: block;
+    font-size: 14px;
+    color: black;
+}
+
+.form1 input,
+.form1 textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 3px solid black;
+    color: black;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+}
+
+.form2 .form1 {
+
+    margin-right: 20px;
+    width: 50%;
+
+}
+
+.form2 .form1:last-child {
+    margin-right: 0;
+}
+
+.form2 {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.card4 {
+    margin-top: 30px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    border-radius: 1em;
+    font-size: 20px;
+}
+
+.tab {
+    margin-left: 20px;
+    width: 80%;
+}
+
+.tab td {
+    padding-bottom: 10px;
+}
+
+.tab td:nth-child(2) {
+    color: #778899;
+}
+
+.tab td:nth-child(3) {
+    color: #778899;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+
+.btn:hover {
+    color: red;
+
+}
+
+#sa {
+    font-size: 20px;
+}
+
+.card3 {
+
+    margin-top: 30px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    background-color: #FAFAD2;
+    border-radius: 20px;
+}
+
+#name {
+    margin-left: 20px;
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.lists {
+    margin-left: 20px;
+    padding: 0 20px;
+}
+
+
+.lists li {
+    font-size: 20px;
+
+    color: black;
+    margin-bottom: 10px;
+}
